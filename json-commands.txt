@@ -1,0 +1,9 @@
+{
+	"command": ["fixed-color","rainbow","patterns", "add-pattern", "music", "notification", "alarm"],
+	"red-range" : 0-255,
+	"green-range" : 0-255,
+	"blue-range" : 0-255,
+	"red" : 0-255,
+	"green" : 0-255,
+	"blue" : 0-255
+}
